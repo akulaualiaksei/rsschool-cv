@@ -44,7 +44,7 @@ function fizzbuzz(n)
 }
 ``` 
 
-## Experience
+## Experience 
 
 * Completed [JavaScript for beginners](https://stepik.org/cert/382045)
 * Viewed course [cs50](https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)

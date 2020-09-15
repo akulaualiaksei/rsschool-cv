@@ -1,0 +1,19 @@
+body {
+    max-width: 1024px;
+    margin: auto;
+}
+section {
+    border-top: 4px solid grey;
+}
+h2 {
+    text-align: center;
+}
+
+.photo {
+    width: 26%;
+}
+
+.contact-footer {
+    display: flex;
+    justify-content: space-between;
+}
